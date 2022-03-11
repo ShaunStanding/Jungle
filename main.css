@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Comforter+Brush&family=Kalam:wght@300&family=Lobster+Two:ital@1&family=Righteous&display=swap');
+
+
+body{background: linear-gradient(to bottom, #01b1f783 0%, rgb(255, 161, 98)110%);}
+
+h1{ text-align: center; font-family: 'Comforter Brush', cursive;font-size: 90px; font-weight: bold; color: #1f1300ff; }
+
+p{ text-align: center; font-family: 'Architects Daughter', cursive; font-size: 26px;font-weight: normal;color:#1f1300ff;}
+
+.nav{ background-position: center; text-align: center; font-size: 16px; font-family: 'Righteous', cursive; color: #1f1300ff;}
+
+*{box-sizing: border-box; padding: 5px;}
+
+.container{display: flex;
+    flex-direction:row;
+    align-content: center;
+    justify-content: center;
+}
